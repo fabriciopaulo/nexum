@@ -1,0 +1,7 @@
+from enum import Enum
+
+
+class ContentType(Enum):
+    TEXT = "text"
+    IMAGE = "image"
+    MIXED = "mixed"

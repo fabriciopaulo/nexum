@@ -1,0 +1,6 @@
+*.pdf
+.idea/
+__pycache__/
+.env
+*.log
+document/main.py

@@ -1,0 +1,5 @@
+[project.optional-dependencies]
+ocr = ["pytesseract"]
+libreoffice = []
+beta = ["beautifulsoup4"]
+all = ["pytesseract", "beautifulsoup4"]
